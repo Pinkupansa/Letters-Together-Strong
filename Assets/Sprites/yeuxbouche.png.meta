@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: cf3562e1d0ee42d4aad914fd9d1097b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2062810964969730884
+    second: happy_0
+  - first:
+      213: -6910916672278586566
+    second: surprised_0
+  - first:
+      213: 6521863133579221112
+    second: cute
+  - first:
+      213: -6897758161609699600
+    second: worried
+  - first:
+      213: 1011951728167429305
+    second: surprised_1
+  - first:
+      213: -5882308985888770025
+    second: happy_1
+  - first:
+      213: 2962903470306721282
+    second: happy_reversed
+  - first:
+      213: -6944124873448868232
+    second: happy_2
+  - first:
+      213: -6610794426853827558
+    second: talking
+  - first:
+      213: -6712041165941261497
+    second: shouting
+  - first:
+      213: -5483417533327087777
+    second: happy_3
+  - first:
+      213: 3282459952807172136
+    second: surprised_3
+  - first:
+      213: -5342526999073610980
+    second: mustache
+  - first:
+      213: 9215845916566100899
+    second: happy_4
+  - first:
+      213: -8257935848157430110
+    second: neutral_0
+  - first:
+      213: 7312419788178291767
+    second: angry
+  - first:
+      213: -1565254285110600745
+    second: poker_face
+  - first:
+      213: -4311267540659949431
+    second: dizzy
+  - first:
+      213: -1620134880553357302
+    second: yeuxbouche_18
+  - first:
+      213: -8496298520532305240
+    second: yeuxbouche_19
+  - first:
+      213: 4849125999738296307
+    second: yeuxbouche_20
+  - first:
+      213: 4392750142563319293
+    second: yeuxbouche_21
+  - first:
+      213: -1876714883492895789
+    second: yeuxbouche_22
+  - first:
+      213: -6946038808804232237
+    second: yeuxbouche_23
+  - first:
+      213: -3269301831428974900
+    second: yeuxbouche_24
+  - first:
+      213: 6931372763770666768
+    second: yeuxbouche_25
+  - first:
+      213: 7269601965932834191
+    second: yeuxbouche_26
+  - first:
+      213: -8640238363105889310
+    second: yeuxbouche_27
+  - first:
+      213: -2434157482517491671
+    second: yeuxbouche_28
+  - first:
+      213: -819317892166830928
+    second: yeuxbouche_29
+  - first:
+      213: 8488204690634512422
+    second: yeuxbouche_30
+  - first:
+      213: -4445738048338110173
+    second: yeuxbouche_31
+  - first:
+      213: 8972323926606489942
+    second: yeuxbouche_32
+  - first:
+      213: -8421501604450309433
+    second: yeuxbouche_33
+  - first:
+      213: -1914427278296708910
+    second: yeuxbouche_34
+  - first:
+      213: -4785823647812517374
+    second: yeuxbouche_35
+  - first:
+      213: 471032545057166427
+    second: yeuxbouche_36
+  - first:
+      213: 2146586801909528209
+    second: yeuxbouche_37
+  - first:
+      213: 4407169082948817351
+    second: yeuxbouche_38
+  - first:
+      213: -5909250993195857570
+    second: yeuxbouche_39
+  - first:
+      213: -1502157199562416889
+    second: yeuxbouche_40
+  - first:
+      213: -7431339530853457413
+    second: yeuxbouche_41
+  - first:
+      213: -23778466844149812
+    second: yeuxbouche_42
+  - first:
+      213: 1959123460218821579
+    second: yeuxbouche_43
+  - first:
+      213: 6196338014922312761
+    second: yeuxbouche_44
+  - first:
+      213: -8188932150049579782
+    second: yeuxbouche_45
+  - first:
+      213: 1287122951454408
+    second: yeuxbouche_46
+  - first:
+      213: 7625738116963443516
+    second: yeuxbouche_47
+  - first:
+      213: 2451351167037408336
+    second: yeuxbouche_48
+  - first:
+      213: -3908561547431306348
+    second: yeuxbouche_49
+  - first:
+      213: 711278666830817170
+    second: yeuxbouche_50
+  - first:
+      213: 7130719087301909044
+    second: yeuxbouche_51
+  - first:
+      213: -4088107782298946545
+    second: yeuxbouche_52
+  - first:
+      213: 8597379296968378733
+    second: yeuxbouche_53
+  - first:
+      213: -2590298284549491235
+    second: yeuxbouche_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: happy_0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1187
+        width: 140
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433dc5b4a390ac10800000000000000
+      internalID: 2062810964969730884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_0
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1164
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b9284f6ed7710a0800000000000000
+      internalID: -6910916672278586566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cute
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1232
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87894b637ff428a50800000000000000
+      internalID: 6521863133579221112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worried
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1215
+        width: 125
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fec3b67f7d3640a0800000000000000
+      internalID: -6897758161609699600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 872
+        width: 115
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b423473cbc2b0e00800000000000000
+      internalID: 1011951728167429305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happy_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 901
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f205a427dd5ea0800000000000000
+      internalID: -5882308985888770025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happy_reversed
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1019
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e776312095e1920800000000000000
+      internalID: 2962903470306721282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happy_2
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 866
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876302a183381af90800000000000000
+      internalID: -6944124873448868232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talking
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 941
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cde388e7db144a0800000000000000
+      internalID: -6610794426853827558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shouting
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 718
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb54a1f1a0ad2a0800000000000000
+      internalID: -6712041165941261497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happy_3
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 711
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e3ea4eccf6e3b0800000000000000
+      internalID: -5483417533327087777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 573
+        width: 129
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82854849fe3ad8d20800000000000000
+      internalID: 3282459952807172136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mustache
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 316
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a84110088bd5b0800000000000000
+      internalID: -5342526999073610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: happy_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 205
+        width: 113
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab18a1980345ef70800000000000000
+      internalID: 9215845916566100899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neutral_0
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 363
+        width: 128
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebc98391be56d80800000000000000
+      internalID: -8257935848157430110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 533
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c77e2fd0fea7560800000000000000
+      internalID: 7312419788178291767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poker_face
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 310
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db13d05589174ae0800000000000000
+      internalID: -1565254285110600745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dizzy
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 413
+        width: 194
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980ba4b830d4b24c0800000000000000
+      internalID: -4311267540659949431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
